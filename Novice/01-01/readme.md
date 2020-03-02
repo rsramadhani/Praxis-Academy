@@ -1,13 +1,13 @@
   # Rangkuman #
 
-    ### Dart ###
+### Dart ###
 Bahasa pemrograman DART ini adalah bahasa pemograman yang dikembangkan oleh google. 
 Alasan kenapa mempelajari bahasa ini adalahkarena melihat google yang mulai meninggalkan bahasa java dan beralih ke dart. 
 Bahasa pemograman besutan Google ini dapat digunakan untuk mengembangkan berbagai macam platform termasuk di dalamnya adalah web,
 aplikasi mobile, server, dan perangkat yang mengusung teknologi Internet of Things. Dart juga dapat digunakan untuk mengembangkan
 aplikasi dari codebase tunggalmenjadi aplikasi Android maupun iOS.
 
-    ### Flutter ###
+### Flutter ###
 Flutter dikembangkan oleh Google untuk membangun antarmuka (user interface / UI) dengan menggunakan bahasa pemrograman Dart, dengan menggunakan flutter membantu para Google Developer untuk membangun sebuah aplikasi mobile langsung di dua platform sekaligus (IOS dan Android) berbeda dengan bahasa pemrograman java dan kotlin haya di satu platform yaitu di android saja.
 
 Ada beberapa peralatan yang harus kita install untuk memulai belajar dan membuat aplikasi dengan Flutter:
