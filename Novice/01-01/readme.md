@@ -1,35 +1,24 @@
   # Rangkuman #
 
-    Dart
+    ###Dart###
 Bahasa pemrograman DART ini adalah bahasa pemograman yang dikembangkan oleh google. 
 Alasan kenapa mempelajari bahasa ini adalahkarena melihat google yang mulai meninggalkan bahasa java dan beralih ke dart. 
 Bahasa pemograman besutan Google ini dapat digunakan untuk mengembangkan berbagai macam platform termasuk di dalamnya adalah web,
 aplikasi mobile, server, dan perangkat yang mengusung teknologi Internet of Things. Dart juga dapat digunakan untuk mengembangkan
 aplikasi dari codebase tunggalmenjadi aplikasi Android maupun iOS.
 
-    Flutter
+    ###Flutter###
+Flutter dikembangkan oleh Google untuk membangun antarmuka (user interface / UI) dengan menggunakan bahasa pemrograman Dart, dengan menggunakan flutter membantu para Google Developer untuk membangun sebuah aplikasi mobile langsung di dua platform sekaligus (IOS dan Android) berbeda dengan bahasa pemrograman java dan kotlin haya di satu platform yaitu di android saja.
+
 Ada beberapa peralatan yang harus kita install untuk memulai belajar dan membuat aplikasi dengan Flutter:
-a. Java Development Kit (JDK);
-b. Android Studio;
-3. Android SDK;
-4. Flutter SDK;
-5. Teks Editor (Visual Studio Code atau Android Studio).
+a. Java Development Kit (JDK)
+b. Android Studio
+c. Android SDK
+d. Flutter SDK
+e. Teks Editor (Visual Studio Code atau Android Studio).
 
-### Pengembangan perangkat lunak ###
+    Compiler
 
-    adalah proses memahami, menentukan, merancang, memprogram,
-mendokumentasikan , menguji , dan memperbaiki bug yang terlibat dalam membuat dan memelihara aplikasi , kerangka kerja, atau komponen perangkat lunak lainnya.
-    Perangkat lunak dapat dikembangkan untuk berbagai tujuan
-yaitu tiga yang paling umum adalah untuk memenuhi kebutuhan spesifik dari klien / bisnis tertentu (kasus dengan perangkat lunak khusus ), untuk memenuhi kebutuhan yang dirasakan dari beberapa pengguna potensial (kasus dengan komersial dan perangkat lunak open source ), atau untuk penggunaan pribadi (mis. seorang ilmuwan dapat menulis perangkat lunak untuk mengotomatiskan tugas biasa.
+Compiler aplikasi di Dart menggunakan metode “Ahead Of Time” (AOT), dimana sistem sudah di compile sedari awal menjadi sistem native, sehingga membantu kita lebih cepat pada saat men-develope dan running aplikasi, istilah lainnya adalah Hot Reload jadi kita tidak perlu melakukan kompilasi atau build ulang untuk melihat hasilnya, berbeda dengan menggunakan android studio pada pemrograman menggunakan java atau kotlin kita harus melakukan build APK disetiap kita ingin kompilasi atau build kadang proses memakan waktu yang cukup lama, apalagi spek komputer yang digunakan tidak terlalu tinggi untuk melihat hasil diemulator.
 
-### Scrum ###
-
-    adalah kerangka kerja yang ringan, berulang , dan
-bertahap untuk mengelola pekerjaan yang kompleks.Prinsip utama Scrum adalah pengakuan ganda bahwa pelanggan akan berubah pikiran tentang apa yang mereka inginkan atau butuhkan (sering disebut volatilitas persyaratan) dan bahwa akan ada tantangan yang tidak dapat diprediksi — di mana pendekatan prediktif atau terencana tidak cocok.
-
-### Extreme Programming ###
-
-    adalah metodologi pengembangan perangkat lunak yang
-dimaksudkan untuk meningkatkan kualitas perangkat lunak dan responsif terhadap perubahan kebutuhan pelanggan.
-    Elemen-elemen lain dari pemrograman ekstrem meliputi:
-pemrograman berpasangan atau melakukan tinjauan kode yang luas , pengujian unit semua kode, menghindari pemrograman fitur sampai dibutuhkan , struktur manajemen yang datar, kesederhanaan dan kejelasan kode.
+Compiler antara Native Platform dengan bahasa Javascript di React Native adalah Javascript Bridge, sedangkan di Flutter adalah Dart Bridge.
