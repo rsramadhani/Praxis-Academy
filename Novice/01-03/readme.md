@@ -8,7 +8,7 @@ Jika ingin membuat properties akses private tambahkan underscore di depan proper
     
     String flower menjadi String _flower
 
-    Setiap variable value nilai defaultnya adalah null
+Setiap variable value nilai defaultnya adalah null
     
 Membuat object dengan nama siswa dengan keyword new, keyword new tidak harus digunakan bisa langsung tanpa new
 
