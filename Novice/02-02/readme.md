@@ -35,7 +35,7 @@ Scaffold adalah widget utama untuk membuat sebuah halaman pada flutter, scaffold
      );
     }
     
-<img src="images/scaffold.png">
+<img src="images/scaffold.jpg">
     
 #### 2. Stateless
 
@@ -56,7 +56,7 @@ Stateless Widget adalah widget yang berfungsi untuk menampilkan hal-hal yang sif
         }
         }
         
- <img src="images/stateless.png">
+ <img src="images/stateless.jpg">
         
 ### 3. Statefull
 
@@ -85,7 +85,7 @@ Statefull Widget adalah widget yang digunakan untuk menampilkan data-data yang d
         }
       }
       
-<img src="images/scaffull.png">
+<img src="images/scaffull.jpg">
       
 ## Layout
 Untuk mengatur tata letak atau posisi widget, maka kita akan mengenal dua buah widget yaitu Row dan Column. 
