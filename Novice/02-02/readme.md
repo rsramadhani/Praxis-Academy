@@ -85,7 +85,7 @@ Statefull Widget adalah widget yang digunakan untuk menampilkan data-data yang d
         }
       }
       
-<img src="images/scaffull.jpg">
+<img src="images/statefull.jpg">
       
 ## Layout
 Untuk mengatur tata letak atau posisi widget, maka kita akan mengenal dua buah widget yaitu Row dan Column. 
