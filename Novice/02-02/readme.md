@@ -118,7 +118,7 @@ Row akan menampilkan widget-widget secara horizontal atau sebaris dari kiri ke k
        }
      }
 
-https://github.com/rsramadhani/Praxis-Academy/blob/master/Novice/02-02/row.png
+(https://github.com/rsramadhani/Praxis-Academy/blob/master/Novice/02-02/row.png)
           
 ##### 2. Column 
 
@@ -153,7 +153,7 @@ Column berlaku sebaliknya widget akan mengarah secara vertikal atau dari atas ke
         } 
       }
       
-https://github.com/rsramadhani/Praxis-Academy/blob/master/Novice/02-02/column.png
+(https://github.com/rsramadhani/Praxis-Academy/blob/master/Novice/02-02/column.png)
     
 #### 3. Center
 
@@ -169,7 +169,7 @@ Center berfungsi agar posisi widget yang kita buat berada ditengah.
         )
       ...
 
-    https://github.com/rsramadhani/Praxis-Academy/blob/master/Novice/02-02/center.png
+(https://github.com/rsramadhani/Praxis-Academy/blob/master/Novice/02-02/center.png)
  
 
 #### 4. Text
@@ -186,7 +186,7 @@ Text berfungsi untuk menampilkan sebuah teks biasa, atau bisa kita berikan style
                                   ),)
      ...
      
-https://github.com/rsramadhani/Praxis-Academy/blob/master/Novice/02-02/text.png
+(https://github.com/rsramadhani/Praxis-Academy/blob/master/Novice/02-02/text.png)
 
 
 #### 5. Icon
@@ -222,5 +222,5 @@ Widget ini untuk menggunakan icon yang telah disediakan, berikut adalah contohny
         )
       ...
       
-https://github.com/rsramadhani/Praxis-Academy/blob/master/Novice/02-02/icon.png
+(https://github.com/rsramadhani/Praxis-Academy/blob/master/Novice/02-02/icon.png)
  
