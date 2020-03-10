@@ -35,6 +35,8 @@ Scaffold adalah widget utama untuk membuat sebuah halaman pada flutter, scaffold
      );
     }
     
+<img src="images/scaffold.png">
+    
 #### 2. Stateless
 
 Stateless Widget adalah widget yang berfungsi untuk menampilkan hal-hal yang sifatnya statis mudahnya setelah data ditampilkan maka kita tidak akan merubahnya lagi.Untuk membuatnya kita cukup mengetikkan stl lalu akan ada pilihan untuk membuatnya.
@@ -53,6 +55,8 @@ Stateless Widget adalah widget yang berfungsi untuk menampilkan hal-hal yang sif
           );
         }
         }
+        
+ <img src="images/stateless.png">
         
 ### 3. Statefull
 
@@ -80,6 +84,8 @@ Statefull Widget adalah widget yang digunakan untuk menampilkan data-data yang d
          );
         }
       }
+      
+<img src="images/scaffull.png">
       
 ## Layout
 Untuk mengatur tata letak atau posisi widget, maka kita akan mengenal dua buah widget yaitu Row dan Column. 
@@ -169,7 +175,6 @@ Center berfungsi agar posisi widget yang kita buat berada ditengah.
         )
       ...
 
-
 <img src="images/center.png"> 
 
 #### 4. Text
@@ -223,3 +228,11 @@ Widget ini untuk menggunakan icon yang telah disediakan, berikut adalah contohny
       ... 
       
 <img src="images/icon.png">
+
+
+#### 6. Stack
+
+Alih-alih berorientasi linear (baik secara horizontal atau vertikal), sebuah Stackwidget memungkinkan Anda menempatkan widget di atas satu sama lain dalam urutan cat. Anda kemudian dapat menggunakan Positionedwidget pada anak-anak a Stackuntuk menempatkan mereka relatif terhadap tepi atas, kanan, bawah, atau kiri tumpukan. Tumpukan didasarkan pada model tata letak posisi absolut web.
+
+#### 7. Container
+The Containerwidget memungkinkan Anda membuat elemen visual persegi panjang. Wadah dapat didekorasi dengan BoxDecoration, seperti latar belakang, perbatasan, atau bayangan. A Containerjuga dapat memiliki margin, bantalan, dan batasan yang diterapkan pada ukurannya. Selain itu, a Containerdapat ditransformasikan dalam ruang tiga dimensi menggunakan matriks.
