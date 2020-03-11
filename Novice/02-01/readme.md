@@ -62,11 +62,7 @@ Kelik menu File->New Flutter Project…
 
 Kemudian tentukan jenis project yang akan dibuat. Kita akan membuat project Flutter Application.
 
-<img src = “images/newproject.png”>
 Buka folder hasilnya melalui vs code kemudian sambungkan handphine melalui usb dan start debugging .
-
-Hasilnya 
- <img src="images/newapp.jpg">
 
 Pada aplikasi di atas, kita membuat StatelessWidget yang berisi widget MaterialApp(). Kemudian di dalam MateralApp() berisi widget lagi: Scaffold, AppBar, Center, dan Text.
 Ini adalah widget dasar…
