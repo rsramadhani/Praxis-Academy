@@ -1,6 +1,6 @@
 # Slivers and Gestures
 
-##Slivers
+## Slivers
 
 Slivers adalah bagian dari area yang dapat digulir. Sliver dapat digunakan untuk mendapatkan efek gulir khusus.Semua tampilan yang bisa
 digulir seperti Listview dan Gridview, merupakan hasil implementasi dari Sliver. Sliver memberikan control yang lebih rendah pada 
