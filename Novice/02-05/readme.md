@@ -13,7 +13,7 @@ yang berarti SliverList tidak dapat mempelajari sejauh mana sumbu utama mereka. 
 berdekatan dengan children yang ada.SliverList mengambil parameter delegasi yang menyediakan item dalam daftar saat menggulir ke
 tampilan. Anda dapat menentukan the actual list dengan SliverChildListDelegate atau membangunnya dengan SliverChildBuilderDelegate.
 
-<img src=”header2.jpg”>
+<img src="header2.jpg">
 
 ### SliverGrid
 
@@ -21,7 +21,7 @@ Slivergrid merupakan sepotong yang menempatkan beberapa anak kotak dalam pengatu
 ditentukan oleh gridDelegate . Setiap children terpaksa memiliki ukuran yang ditentukan oleh gridDelegate .Tapi ada beberapa format
 tambahan untuk dimensi cross -axis di grid
 
-<img src=”header1.jpg”>
+<img src="header1.jpg">
 
 ### SliverAppBar
 
@@ -32,6 +32,6 @@ dan mengontrak itu adalah dengan mengatur parameter flexibleSpace dan parameter 
 yang berbeda untuk bilah aplikasi saat diperluas ke ukuran penuh vs versi "terkompresi".Anda dapat mengatur parameter mengambang ke true
 untuk membuat bilah aplikasi muncul kembali ketika anda menggulir ke bawah, bahkan jika Anda belum mencapai bagian atas daftar.
 
-<img src=”header3.jpg”>
+<img src="header3.jpg">
 
-<img src=”header4.jpg”>
+<img src="header4.jpg">
