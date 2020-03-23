@@ -20,25 +20,25 @@ gaya animation yang umumnya dikenal sebagai  shared element transitions atau sha
 animation ini untuk memiliki rute yang berbeda tetapi dengan tag yang cocok untuk menerapkan animasi.Navigator mengelola tumpukan 
 yang berisi rute aplikasi.Mendorong rute atau memunculkan rute dari tumpukan Navigator memicu animasi
 
-<img src=’hero_1’>
+<img src="hero_1">
 
 Digambar itu terlihat sebuah gambar ditegah layar, kemudian saat gambar itu diketuk maka rute akan menerbangkan gambar tersebut ke 
 sudut kiri atas dengan rute coklat yang baru dan dengan ukuran yang lebih kecil. Mengetuk sirip di rute cokelat itu maka akan 
 mengembalikannya kebentuk semula
 
-<img src=’hero_2’>
+<img src="hero_2">
 
 ## Radial Hero Animations
 Dalam Radial hero animations, saat hero terbang di antara rute, bentuknya tampak berubah dari melingkar menjadi persegi.
 
-<img src=’radial.jpg’>
+<img src="radial.jpg">
 Di halaman awal, terdapat deretan tiga gambar melingkar muncul di bagian bawah. Saat  mengetuk salah satu gambar melingkar,maka akan menerbangkan gambar itu ke rute baru yang menampilkannya dengan bentuk persegi. Mengetuk gambar persegi menerbangkan pahlawan kembali ke rute asli, ditampilkan dengan bentuk melingkar.
 
-<img src=’r1.jpg’>
+<img src="r1.jpg">
 
-<img src=’r2.jpg’>
+<img src="r2.jpg">
 
-<img src=’r3.jpg’>
+<img src="r3.jpg">
 
 ## Staggered Animations
 
@@ -46,11 +46,11 @@ Staggered animations adalah konsep langsung: perubahan visual terjadi sebagai se
 murni berurutan, dengan satu perubahan terjadi setelah yang berikutnya, atau mungkin sebagian atau seluruhnya tumpang tindih. Mungkin
 juga ada celah, di mana tidak ada perubahan terjadi.
 
-<img src=’stg1.jpg>
+<img src="stg1.jpg">
 
-<img src=’stg2.jpg>
+<img src="stg2.jpg">
 
-<img src=’stg3.jpg’>
+<img src="stg3.jpg">
 
 Gambar diatas merupakan screencapturing dari staggered animations yang saya kerjakan. Penjelasannya  adalah dimulai sebagai kotak hitam
 berbatasan dengan sudut agak bulat. Kotak berjalan melalui perubahan dalam urutan berikut:
