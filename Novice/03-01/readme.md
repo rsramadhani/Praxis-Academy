@@ -12,8 +12,8 @@ perhitungan tanpa menjelaskan aliran kontrolnya
 
       UI = f ( state )
 
-UI is the layout on the screen
-F is your build methods
+UI is the layout on the screen,
+F is your build methods,
 State is the applicaton state
 
 ## Provider
@@ -43,6 +43,8 @@ Yang ketiga adalah child, yang berguna untuk optimasi
 BloC merupakan komponen logika bisnis yang berguna untuk melakukan manajemen State di flutter. Menulis aplikasi menggunakan pola Blok 
 dari awal menciptakan banyak kode boilerplate. Itu sebabnya ada library luar biasa yang menyelamatkan Anda dari berurusan dengan seluk-
 beluk Blok, seperti Streams dan Sinks ...
+
+<img src="bloc0.jpg">
 
 Aplikasi ini merupakan simulasi dari aplikasi ramalan cuaca sederhana yang hanya akan menghasilkan suhu acak.Pertama adalah kita memasukkan nama kota secara acak. 
 
