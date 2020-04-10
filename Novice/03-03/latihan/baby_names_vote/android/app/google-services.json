@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "996087221487",
+    "firebase_url": "https://baby-name-c2704.firebaseio.com",
+    "project_id": "baby-name-c2704",
+    "storage_bucket": "baby-name-c2704.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996087221487:android:b916b1b2b137e944b0df1a",
+        "android_client_info": {
+          "package_name": "com.example.baby_names_vote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996087221487-2q7uaknsivke8i7ue4deev1ufrsg0k9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy1fLZeBrrTf1HBZ5fQp07w8HXupcuDsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996087221487-2q7uaknsivke8i7ue4deev1ufrsg0k9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
