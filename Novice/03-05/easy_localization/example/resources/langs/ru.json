@@ -1,0 +1,29 @@
+{
+    "title": "Halo!",
+    "msg": "Halo! {} di dalam dunia {} ! ",
+    "clickMe": "Klik disini",
+    "profile": {
+        "reset_password": {
+            "title": "Ubah Kata Sandi",
+            "username": "nama pengguna",
+            "password": "kata sandi"
+        }
+    },
+    "clicked": {
+        "zero": "Anda klik sebanyak {} kali!",
+        "one": "Anda klik sebanyak {} kali!",
+        "two": "Anda klik sebanyak {} kali!",
+        "few": "Anda klik sebanyak {} kali!",
+        "many": "Anda klik sebanyak {} kali!",
+        "other": "Anda klik sebanyak {} kali!"
+    },
+    "amount": {
+        "zero": "Total anda : {} ",
+        "one": "Total anda : {} ",
+        "two": "Total anda: {} ",
+        "few": "Total anda : {} ",
+        "many": "Total anda : {} ",
+        "other": "Total anda : {} "
+    },
+    "reset_locale": "Ubah Bahasa Tersimpan"
+}
